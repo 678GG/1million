@@ -1,0 +1,1008 @@
+Uri: https://www.ichancy2.com/
+File Name: C:\Users\NANO\Downloads\ichancy2.com\index.htm
+Content Type: text/html
+
+Uri: https://www.ichancy2.com/favicon.ico?version=1710791573988
+File Name: C:\Users\NANO\Downloads\ichancy2.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.ichancy2.com/manifest.json
+File Name: C:\Users\NANO\Downloads\ichancy2.com\manifest.json
+Content Type: application/json
+
+Uri: https://www.ichancy2.com/assets/index-42278bd5.css
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\index-42278bd5.css
+Content Type: text/css
+
+Uri: https://www.ichancy2.com/assets/index-a7eb5d33.js
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\index-a7eb5d33.js
+Content Type: application/javascript
+
+Uri: https://www.ichancy2.com/modernizr.js
+File Name: C:\Users\NANO\Downloads\ichancy2.com\modernizr.js
+Content Type: application/javascript
+
+Uri: https://www.ichancy2.com/assets/BetConstruct-Icons-3a02a216.eot?u80br6
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\BetConstruct-Icons-3a02a216.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ichancy2.com/assets/BetConstruct-Icons-1809861a.ttf?u80br6
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\BetConstruct-Icons-1809861a.hxd
+Content Type: application/octet-stream
+
+Uri: https://www.ichancy2.com/assets/BetConstruct-Icons-65eda39c.woff?u80br6
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\BetConstruct-Icons-65eda39c.woff
+Content Type: font/woff
+
+Uri: https://www.ichancy2.com/assets/BetConstruct-Icons-febc5667.svg?u80br6
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\BetConstruct-Icons-febc5667.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ichancy2.com/fonts/default/Roboto.woff2?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\default\Roboto.woff2
+Content Type: font/woff2
+
+Uri: https://www.ichancy2.com/fonts/default/Roboto.woff?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\default\Roboto.woff
+Content Type: font/woff
+
+Uri: https://www.ichancy2.com/fonts/default/Roboto.ttf?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\default\Roboto.hxd
+Content Type: application/octet-stream
+
+Uri: https://www.ichancy2.com/fonts/default/Roboto.eot?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\default\Roboto.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ichancy2.com/fonts/default/Roboto.svg?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\default\Roboto.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ichancy2.com/fonts/default/RobotoBold.woff2?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\default\RobotoBold.woff2
+Content Type: font/woff2
+
+Uri: https://www.ichancy2.com/fonts/default/RobotoBold.woff?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\default\RobotoBold.woff
+Content Type: font/woff
+
+Uri: https://www.ichancy2.com/fonts/default/RobotoBold.ttf?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\default\RobotoBold.hxd
+Content Type: application/octet-stream
+
+Uri: https://www.ichancy2.com/fonts/default/RobotoBold.eot?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\default\RobotoBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ichancy2.com/fonts/default/RobotoBold.svg?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\default\RobotoBold.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ichancy2.com/fonts/armenian/mardoto-regular-webfont.woff2?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\armenian\mardoto-regular-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.ichancy2.com/fonts/armenian/mardoto-regular-webfont.woff?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\armenian\mardoto-regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.ichancy2.com/fonts/armenian/mardoto-regular-webfont.ttf?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\armenian\mardoto-regular-webfont.hxd
+Content Type: application/octet-stream
+
+Uri: https://www.ichancy2.com/fonts/armenian/mardoto-bold-webfont.woff2?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\armenian\mardoto-bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.ichancy2.com/fonts/armenian/mardoto-bold-webfont.woff?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\armenian\mardoto-bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.ichancy2.com/fonts/armenian/mardoto-bold-webfont.ttf?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\armenian\mardoto-bold-webfont.hxd
+Content Type: application/octet-stream
+
+Uri: https://www.ichancy2.com/fonts/farsi/IRAN_SemiBold.woff2?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\farsi\IRAN_SemiBold.woff2
+Content Type: font/woff2
+
+Uri: https://www.ichancy2.com/fonts/farsi/IRAN_SemiBold.woff?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\farsi\IRAN_SemiBold.woff
+Content Type: font/woff
+
+Uri: https://www.ichancy2.com/fonts/farsi/IRAN_SemiBold.eot?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\farsi\IRAN_SemiBold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ichancy2.com/fonts/farsi/IRAN_SemiBold.ttf?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\farsi\IRAN_SemiBold.hxd
+Content Type: application/octet-stream
+
+Uri: https://www.ichancy2.com/fonts/farsi/RobotoRegular.woff2?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\farsi\RobotoRegular.woff2
+Content Type: font/woff2
+
+Uri: https://www.ichancy2.com/fonts/farsi/RobotoRegular.woff?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\farsi\RobotoRegular.woff
+Content Type: font/woff
+
+Uri: https://www.ichancy2.com/fonts/farsi/RobotoRegular.ttf?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\farsi\RobotoRegular.hxd
+Content Type: application/octet-stream
+
+Uri: https://www.ichancy2.com/fonts/farsi/RobotoRegular.eot?v=209
+File Name: C:\Users\NANO\Downloads\ichancy2.com\fonts\farsi\RobotoRegular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.ichancy2.com/assets/flags-1d9ff867.png?v=223
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\flags-1d9ff867.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/VGS-6106eafa.jpg
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\VGS-6106eafa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ichancy2.com/assets/PSN-2fedd93b.jpg
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\PSN-2fedd93b.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ichancy2.com/assets/DLV-98d4060e.jpg
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\DLV-98d4060e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ichancy2.com/assets/EGT-7e74397e.jpg
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\EGT-7e74397e.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ichancy2.com/assets/RTG-f33b87ba.jpg
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\RTG-f33b87ba.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ichancy2.com/assets/APG-e66ae716.jpg
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\APG-e66ae716.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ichancy2.com/assets/jackpot-banner-bg-3f34a47f.png?v=20
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\jackpot-banner-bg-3f34a47f.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/mega-13dcc645.png?v=20
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\mega-13dcc645.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/minor-7cdd3a99.png?v=20
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\minor-7cdd3a99.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/mega-70c4d9e8.png?v=20
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\mega-70c4d9e8.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/minor-7d06cca9.png?v=20
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\minor-7d06cca9.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/mini-b65c295c.png?v=20
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\mini-b65c295c.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/feature-game-bg-cd1ca118.png?v=343
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\feature-game-bg-cd1ca118.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/Baseball-ce6cb622.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\Baseball-ce6cb622.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/Basketball-afc2658a.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\Basketball-afc2658a.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/Boxing-30156870.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\Boxing-30156870.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/Chess-19dce051.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\Chess-19dce051.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/Football-07832885.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\Football-07832885.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/Golf-98a4158a.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\Golf-98a4158a.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/Handball-159e85a0.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\Handball-159e85a0.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/Horseracing-0e321be8.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\Horseracing-0e321be8.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/IceHockey-b862a569.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\IceHockey-b862a569.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/RugbyLeague-b0609c94.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\RugbyLeague-b0609c94.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/Soccer-b6efcede.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\Soccer-b6efcede.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/Tennis-30a11e3f.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\Tennis-30a11e3f.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/Volleyball-ef99f8fe.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\Volleyball-ef99f8fe.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/fasttv-194cb092.png?v=58
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\fasttv-194cb092.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/custom-37540375.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\custom-37540375.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/custom-4ad82aee.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\custom-4ad82aee.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/alpineskiing-e7e01b41.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\alpineskiing-e7e01b41.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/alpineskiing-2d1accec.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\alpineskiing-2d1accec.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/americanfootball-dc2a360d.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\americanfootball-dc2a360d.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/americanfootball-249f042d.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\americanfootball-249f042d.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/arenaofvalor-b1d384dc.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\arenaofvalor-b1d384dc.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/arenaofvalor-00f6f738.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\arenaofvalor-00f6f738.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/archery-30e2b143.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\archery-30e2b143.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/archery-e38669f0.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\archery-e38669f0.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/australianfootball-dd47d778.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\australianfootball-dd47d778.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/australianfootball-6c81cb30.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\australianfootball-6c81cb30.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/autoracing-3089afcf.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\autoracing-3089afcf.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/autoracing-096c779f.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\autoracing-096c779f.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/badminton-12a5b92e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\badminton-12a5b92e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/badminton-c559f822.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\badminton-c559f822.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/baseball-1083d2c5.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\baseball-1083d2c5.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/baseball-18fdfcd3.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\baseball-18fdfcd3.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/basketball-f902cfa7.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\basketball-f902cfa7.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/basketball-9536f9c0.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\basketball-9536f9c0.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/basketballshots-8ede853f.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\basketballshots-8ede853f.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/basketballshots-13781738.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\basketballshots-13781738.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/beachfootball-52a26335.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\beachfootball-52a26335.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/beachfootball-42fe7527.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\beachfootball-42fe7527.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/beachvolleyball-532d9e0f.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\beachvolleyball-532d9e0f.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/beachvolleyball-75a4fde2.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\beachvolleyball-75a4fde2.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/boxing-ded07d6d.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\boxing-ded07d6d.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/boxing-3a999480.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\boxing-3a999480.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/callofduty-026d3405.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\callofduty-026d3405.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/callofduty-4b0f56d1.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\callofduty-4b0f56d1.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/chess-53c1a46e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\chess-53c1a46e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/chess-b641416a.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\chess-b641416a.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/counterstrike-dc48cd8e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\counterstrike-dc48cd8e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/counterstrike-887f7e58.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\counterstrike-887f7e58.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/cricket-e281d2bd.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\cricket-e281d2bd.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/cricket-a8d3892b.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\cricket-a8d3892b.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/cyberfootball-98cc08b4.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\cyberfootball-98cc08b4.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/cyberfootball-7542b561.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\cyberfootball-7542b561.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/cycling-c33852f4.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\cycling-c33852f4.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/cycling-61c7f895.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\cycling-61c7f895.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/darts-70f55f16.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\darts-70f55f16.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/darts-2423bcf2.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\darts-2423bcf2.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/dota-f2937b29.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\dota-f2937b29.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/dota-702b63c2.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\dota-702b63c2.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/ebasketball-7d21b62b.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\ebasketball-7d21b62b.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/ebasketball-36eedd33.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\ebasketball-36eedd33.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/esports-76daf6d5.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\esports-76daf6d5.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/esports-ead9a3b3.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\esports-ead9a3b3.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/eurovision-c3dba5b5.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\eurovision-c3dba5b5.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/eurovision-1308cc1a.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\eurovision-1308cc1a.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/floorball-ca1fcf53.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\floorball-ca1fcf53.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/floorball-f7c64b3f.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\floorball-f7c64b3f.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/formula1-d19d0119.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\formula1-d19d0119.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/formula1-1043170d.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\formula1-1043170d.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/freestylewrestling-6538ebf3.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\freestylewrestling-6538ebf3.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/freestylewrestling-1fba14c6.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\freestylewrestling-1fba14c6.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/futsal-0c512d76.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\futsal-0c512d76.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/futsal-6c4b01d9.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\futsal-6c4b01d9.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/golf-635a91e3.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\golf-635a91e3.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/golf-d1a02c31.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\golf-d1a02c31.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/grasshockey-9bb0a03d.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\grasshockey-9bb0a03d.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/grasshockey-27759594.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\grasshockey-27759594.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/grecoromanwrestling-4ecadd27.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\grecoromanwrestling-4ecadd27.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/grecoromanwrestling-7fce3268.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\grecoromanwrestling-7fce3268.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/handball-f484eae8.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\handball-f484eae8.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/handball-c0b8b42f.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\handball-c0b8b42f.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/hearthstone-16cb44c9.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\hearthstone-16cb44c9.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/hearthstone-7c743c71.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\hearthstone-7c743c71.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/horseracing-84556d5e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\horseracing-84556d5e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/horseracing-dd0e047a.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\horseracing-dd0e047a.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/icehockey-8376e5dc.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\icehockey-8376e5dc.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/icehockey-7a4edac1.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\icehockey-7a4edac1.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/judo-947a3348.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\judo-947a3348.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/judo-b6d979e7.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\judo-b6d979e7.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/kingofglory-10c752fe.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\kingofglory-10c752fe.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/kingofglory-a628cb88.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\kingofglory-a628cb88.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/lacross-eb5446c4.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\lacross-eb5446c4.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/lacross-888d67a7.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\lacross-888d67a7.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/leagueoflegends-d03372b9.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\leagueoflegends-d03372b9.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/leagueoflegends-da492d6a.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\leagueoflegends-da492d6a.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/mma-28537505.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\mma-28537505.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/mma-faae50f2.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\mma-faae50f2.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/mortalkombatxl-b182498e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\mortalkombatxl-b182498e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/mortalkombatxl-b2af613e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\mortalkombatxl-b2af613e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/mobilelegends-a9c45839.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\mobilelegends-a9c45839.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/mobilelegends-ffcbb655.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\mobilelegends-ffcbb655.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/motorsport-c6f6a5ec.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\motorsport-c6f6a5ec.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/motorsport-f30d6375.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\motorsport-f30d6375.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/nascar-9f426f93.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\nascar-9f426f93.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/nascar-28f434ea.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\nascar-28f434ea.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/netball-f3960c25.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\netball-f3960c25.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/netball-a4c64249.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\netball-a4c64249.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/oscar-4b396a86.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\oscar-4b396a86.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/oscar-57ab0293.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\oscar-57ab0293.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/overwatch-ee061de4.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\overwatch-ee061de4.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/overwatch-c15582e1.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\overwatch-c15582e1.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/pistolshooting-976535b1.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\pistolshooting-976535b1.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/pistolshooting-be3f5b3d.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\pistolshooting-be3f5b3d.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/politics-54e8091f.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\politics-54e8091f.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/politics-095bb1ad.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\politics-095bb1ad.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/rocketleague-99dc8795.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\rocketleague-99dc8795.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/rocketleague-34033682.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\rocketleague-34033682.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/rugby-ce5bcd46.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\rugby-ce5bcd46.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/rugby-ff3df0bb.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\rugby-ff3df0bb.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/rugbyleague-02168578.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\rugbyleague-02168578.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/rugbyleague-224ef4d2.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\rugbyleague-224ef4d2.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/rugbysevens-59153f48.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\rugbysevens-59153f48.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/rugbysevens-66451c11.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\rugbysevens-66451c11.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/rugbyunion-37d88e9d.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\rugbyunion-37d88e9d.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/rugbyunion-808ed76e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\rugbyunion-808ed76e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/skijumping-22e39a93.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\skijumping-22e39a93.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/skijumping-4bdcbe83.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\skijumping-4bdcbe83.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/snooker-eb488eea.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\snooker-eb488eea.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/snooker-6b3225b8.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\snooker-6b3225b8.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/soccer-4729ed8e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\soccer-4729ed8e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/soccer-61778637.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\soccer-61778637.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/specialbets-c4cd41b3.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\specialbets-c4cd41b3.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/specialbets-dc325d2c.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\specialbets-dc325d2c.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/speedway-2f083068.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\speedway-2f083068.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/speedway-19ce0328.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\speedway-19ce0328.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/starcraft-41a39da1.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\starcraft-41a39da1.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/starcraft-24aa4b01.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\starcraft-24aa4b01.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/starcraft2-8842cc17.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\starcraft2-8842cc17.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/starcraft2-d526860e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\starcraft2-d526860e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/streetfighterv-f1ac6a28.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\streetfighterv-f1ac6a28.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/streetfighterv-85f5f86d.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\streetfighterv-85f5f86d.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/surfing-c6e3ea10.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\surfing-c6e3ea10.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/surfing-1de86e10.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\surfing-1de86e10.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/tabletennis-4bfc6d61.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\tabletennis-4bfc6d61.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/tabletennis-0d450344.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\tabletennis-0d450344.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/tennis-8675ddcc.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\tennis-8675ddcc.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/tennis-8d1b5aff.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\tennis-8d1b5aff.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/tennisgrass-64cf6b70.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\tennisgrass-64cf6b70.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/tennisgrass-7fd18b66.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\tennisgrass-7fd18b66.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/tvshowsandmovies-521674aa.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\tvshowsandmovies-521674aa.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/tvshowsandmovies-7cf8e7b8.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\tvshowsandmovies-7cf8e7b8.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/valorant-38c3d670.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\valorant-38c3d670.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/valorant-ba00a990.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\valorant-ba00a990.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/volleyball-e03f037e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\volleyball-e03f037e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/volleyball-d96f6570.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\volleyball-d96f6570.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/worldoftanks-21ad1a06.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\worldoftanks-21ad1a06.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/worldoftanks-7094734d.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\worldoftanks-7094734d.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/wrestling-85826060.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\wrestling-85826060.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/wrestling-f8f7fd2e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\wrestling-f8f7fd2e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/waterpolo-c5c3bda0.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\waterpolo-c5c3bda0.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/waterpolo-939b9637.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\waterpolo-939b9637.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/wwe-9e012379.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\wwe-9e012379.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/wwe-de23f974.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\wwe-de23f974.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/homework-ca65730b.svg?v=658
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\homework-ca65730b.svg
+Content Type: image/svg+xml
+
+Uri: https://www.ichancy2.com/assets/crypto-popup-image-a2da0892.png?v=22
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\crypto-popup-image-a2da0892.png
+Content Type: image/png
+
+Uri: https://etherscan.io/images/svg/brands/ethereum-original.svg
+File Name: C:\Users\NANO\Downloads\ichancy2.com\images\svg\brands\ethereum-original.svg
+Content Type: image/svg+xml
+
+Uri: https://etherscan.io/token/images/fasttoken_32.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\token\images\fasttoken_32.png
+Content Type: image/png
+
+Uri: https://etherscan.io/token/images/tethernew_32.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\token\images\tethernew_32.png
+Content Type: image/png
+
+Uri: https://etherscan.io/token/images/centre-usdc_28.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\token\images\centre-usdc_28.png
+Content Type: image/png
+
+Uri: https://etherscan.io/token/images/bnb_28_2.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\token\images\bnb_28_2.png
+Content Type: image/png
+
+Uri: https://etherscan.io/token/images/binanceusd_32.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\token\images\binanceusd_32.png
+Content Type: image/png
+
+Uri: https://etherscan.io/token/images/MCDDai_32.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\token\images\MCDDai_32.png
+Content Type: image/png
+
+Uri: https://etherscan.io/token/images/shibatoken_32.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\token\images\shibatoken_32.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/ada-deb4bdb7.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\ada-deb4bdb7.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/amd-76fda2fb.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\amd-76fda2fb.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/bch-9190569f.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\bch-9190569f.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/bdt-12d79d8e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\bdt-12d79d8e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/btc-fc600df9.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\btc-fc600df9.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/cad-56a1dd80.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\cad-56a1dd80.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/dai-c92809de.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\dai-c92809de.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/dog-a59f708f.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\dog-a59f708f.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/eth-fecfa9f5.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\eth-fecfa9f5.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/eur-dbb7aa9c.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\eur-dbb7aa9c.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/ftn-9ddbc34b.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\ftn-9ddbc34b.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/gel-389a588f.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\gel-389a588f.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/ghs-919beb72.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\ghs-919beb72.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/idr-f7b4aafc.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\idr-f7b4aafc.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/kes-c47520b4.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\kes-c47520b4.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/krw-9304fe9e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\krw-9304fe9e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/kzt-cacded1f.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\kzt-cacded1f.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/ltc-8322a3ba.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\ltc-8322a3ba.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/mth-1358e92e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\mth-1358e92e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/myr-8ab86ef0.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\myr-8ab86ef0.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/rub-826ac30c.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\rub-826ac30c.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/thb-f42dd63a.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\thb-f42dd63a.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/tus-1a87d84e.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\tus-1a87d84e.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/uah-3a6f6728.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\uah-3a6f6728.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/usc-95f15669.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\usc-95f15669.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/usd-060fad3a.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\usd-060fad3a.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/uzs-b272c5cc.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\uzs-b272c5cc.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/vnd-6f036657.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\vnd-6f036657.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/xrp-39692668.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\xrp-39692668.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/jackpot-banner-bg-3f34a47f.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\jackpot-banner-bg-3f34a47f-1.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/bonus_closed-af903264.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\bonus_closed-af903264.png
+Content Type: image/png
+
+Uri: https://www.ichancy2.com/assets/journey-background-3cd57c60.png
+File Name: C:\Users\NANO\Downloads\ichancy2.com\assets\journey-background-3cd57c60.png
+Content Type: image/png
+
